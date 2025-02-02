@@ -51,7 +51,7 @@ My first project using an AI. It's a fun project making a recipe generator using
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felicialatte)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felicialatte)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)]([https://twitter.com/rammcodes](https://x.com/felicialatte))
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/felicialatte)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
